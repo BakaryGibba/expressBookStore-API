@@ -259,3 +259,4 @@ This project is for educational purposes as part of the IBM Full Stack Software 
 ---
 
 **Note**: This is a learning project. For production use, implement additional security measures like password hashing, input validation, and database persistence.
+
